@@ -1,0 +1,2 @@
+part,tfm_version,standin,seconds,python,sklearn,tabpfn,torch
+bench,v2,False,906,3.13.15,1.6.1,9.2.0,2.11.0+cu128

@@ -1,0 +1,2 @@
+learner,tfm_version,standin,one_fold,seconds,python,sklearn,torch,tabpfn
+tfm,v2,False,False,5068,3.13.15,1.6.1,2.11.0+cu128,9.2.0

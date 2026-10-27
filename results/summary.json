@@ -1,0 +1,62 @@
+{
+ "LR": {
+  "G": 0.8114539953803593,
+  "G_all": 1.364358832846336,
+  "G_D": {
+   "Fastener": 0.0,
+   "Rocker": 0.22450527636917822,
+   "Outsole": -0.003349952356212734,
+   "Relasting": 0.002533362094991722,
+   "Wedge": 0.4554400970219629,
+   "Insole additions": 0.0674266777182721,
+   "Insole targets": 0.06489853453216712
+  },
+  "mean_prop_cost": 0.013096379349315039,
+  "spearman_g_vs_realised": [
+   0.10153846153846155,
+   0.6291299593362891
+  ]
+ },
+ "GBT": {
+  "G": 1.2761123036184105,
+  "G_all": 2.3327351256110056,
+  "G_D": {
+   "Fastener": 0.0,
+   "Rocker": 0.46073455167533495,
+   "Outsole": 7.498395126567636e-09,
+   "Relasting": -0.014933254350749043,
+   "Wedge": 0.8683735816992811,
+   "Insole additions": -0.028920815127469517,
+   "Insole targets": -0.009141767776382127
+  },
+  "mean_prop_cost": 0.036665764341537635,
+  "spearman_g_vs_realised": [
+   0.05385651186372511,
+   0.7981966928601372
+  ]
+ },
+ "ecc_member_em": {
+  "mean": 0.21177275838466805,
+  "min": 0.1868583162217659,
+  "max": 0.2402464065708419,
+  "clinical_S3_em": 0.2190280629705681,
+  "share_members_below_clinical": 0.7333333333333333
+ },
+ "s5_unreachable_test_combos_per_repeat": {
+  "LR": {
+   "Rocker": 27.0,
+   "Relasting": 0.0,
+   "Wedge": 28.0,
+   "Insole additions": 8.333333333333334,
+   "Insole targets": 44.666666666666664
+  },
+  "GBT": {
+   "Rocker": 27.0,
+   "Relasting": 0.0,
+   "Wedge": 28.0,
+   "Insole additions": 8.333333333333334,
+   "Insole targets": 44.666666666666664
+  }
+ },
+ "repeats": 3
+}
